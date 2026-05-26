@@ -1,0 +1,11 @@
+# Coolify Launch Room
+
+Coolify Launch Room is a SaaS workspace for Coolify.
+
+Website: https://coolifylaunch.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Coolify
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
